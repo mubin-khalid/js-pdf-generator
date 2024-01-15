@@ -1,10 +1,10 @@
-# TS PDF GENERATOR
+# JS PDF GENERATOR
 
 Please run yarn(or npm install) and then
 ```bash
 yarn dev
 ```
-app is listening on port `3000` and has two endpoints
+app is listening on port `3001` and has two endpoints
 
 ```bash
 - /pdf
